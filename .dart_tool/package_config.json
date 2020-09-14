@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_fm_ad",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-09-13T17:28:57.978636Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}

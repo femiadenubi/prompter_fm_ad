@@ -1,0 +1,8 @@
+name: prompter_fm_ad
+version: 0.0.1
+description: A library that can be used to create a stepper
+author: Oluwafemi Adenubi <femiadenubi@gmail.com>
+homepage: https://www.google.com
+
+environment:
+  sdk: '<3.0.0'
